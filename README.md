@@ -1,2 +1,8 @@
-# DailyUI-Flutter
-The repo contains the code for the daily challenge to implement a UI in flutter everyday based on the Daily UI challenge.
+# daily_ui
+
+An application to build out one UI a day using the Flutter SDK
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
